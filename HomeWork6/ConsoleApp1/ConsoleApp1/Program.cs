@@ -9,7 +9,7 @@ namespace ConsoleApp1
     {
         public static void Main(string[] args)
         {
-            //Task1();
+           //Task1();
             
             //Task2();
         }
@@ -88,4 +88,3 @@ namespace ConsoleApp1
         }
     }
 }
-    
