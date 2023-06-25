@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="FinalProject.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="siteUrl" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://raxrot.itch.io/</Value>
+    </Setting>
+    <Setting Name="programmerInfo" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Vlad Bulahov</Value>
+    </Setting>
+    <Setting Name="UserName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Admin</Value>
+    </Setting>
+    <Setting Name="UserPass" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Admin</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
